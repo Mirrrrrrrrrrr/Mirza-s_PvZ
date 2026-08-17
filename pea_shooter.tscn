@@ -1,6 +1,0 @@
-[gd_scene format=3 uid="uid://dqfapavttn2x7"]
-
-[ext_resource type="Script" uid="uid://onpkb0pqdmww" path="res://scripts/pea_shooter.gd" id="1_uy653"]
-
-[node name="peaShooter" type="Node2D" unique_id=893638583]
-script = ExtResource("1_uy653")
